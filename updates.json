@@ -1,7 +1,7 @@
 {
   "version": "1.1.2-test",
   "contract": 1,
-  "releasedAt": "2026-10-24T22:21:24.514Z",
+  "releasedAt": "2026-10-24T22:34:46.281Z",
   "notes": "https://github.com/soycriiz/nuevohub-updates",
   "devices": {
     "hub": {
@@ -20,6 +20,6 @@
   "android": {
     "file": "nuevohub-1.1.2-test-debug.apk",
     "url": "https://raw.githubusercontent.com/soycriiz/nuevohub-updates/main/assets/nuevohub-1.1.2-test-debug.apk",
-    "sha256": "af908ae3943505e2d1394e807efcab787942042e634724d2b8dce0339ae8cf06"
+    "sha256": "bef25c6e5dc5eb94626db8c909e2b284054c47388305040c1ae07a5ca0dca3df"
   }
 }
