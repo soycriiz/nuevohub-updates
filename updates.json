@@ -1,25 +1,25 @@
 {
-  "version": "1.1.9-test",
+  "version": "1.1.10-test",
   "contract": 1,
-  "releasedAt": "2026-10-25T21:43:30.608Z",
+  "releasedAt": "2026-10-25T22:18:14.315Z",
   "notes": "https://github.com/soycriiz/nuevohub-updates",
   "devices": {
     "hub": {
       "esp32dev": {
-        "file": "hub-1.1.9-test-esp32dev.bin",
-        "url": "https://raw.githubusercontent.com/soycriiz/nuevohub-updates/main/assets/hub-1.1.9-test-esp32dev.bin",
-        "sha256": "f52fd6527f6af635571b547035ad032530d13c7a0d09e3d399cf914f4e86b7ac"
+        "file": "hub-1.1.10-test-esp32dev.bin",
+        "url": "https://raw.githubusercontent.com/soycriiz/nuevohub-updates/main/assets/hub-1.1.10-test-esp32dev.bin",
+        "sha256": "4af0c36d435175f208c09a9edcdd23dbfac8929ce198914c93d4b4c274254cc6"
       },
       "esp32dev-nuevo": {
-        "file": "hub-1.1.9-test-esp32dev-nuevo.bin",
-        "url": "https://raw.githubusercontent.com/soycriiz/nuevohub-updates/main/assets/hub-1.1.9-test-esp32dev-nuevo.bin",
-        "sha256": "aa3bd878f3f5ae9d668c6e81d32b8d94ef9abbb6c0dd64f9350fe06cefc36a3b"
+        "file": "hub-1.1.10-test-esp32dev-nuevo.bin",
+        "url": "https://raw.githubusercontent.com/soycriiz/nuevohub-updates/main/assets/hub-1.1.10-test-esp32dev-nuevo.bin",
+        "sha256": "9c372120f7933bb077a641fba96fedfba38eb2589b5fef7d405e83958ba55316"
       }
     }
   },
   "android": {
-    "file": "nuevohub-1.1.9-test-debug.apk",
-    "url": "https://raw.githubusercontent.com/soycriiz/nuevohub-updates/main/assets/nuevohub-1.1.9-test-debug.apk",
-    "sha256": "bf9a6602c53cf7e0d1322934ca759569cc1f00bf7a2a45d65c089fe8706a939d"
+    "file": "nuevohub-1.1.10-test-debug.apk",
+    "url": "https://raw.githubusercontent.com/soycriiz/nuevohub-updates/main/assets/nuevohub-1.1.10-test-debug.apk",
+    "sha256": "3b138c18ac4bbaf35b6369909aa2ac1426146c697c790c12a9a2552fd2172c07"
   }
 }
